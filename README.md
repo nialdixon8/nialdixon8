@@ -8,7 +8,7 @@ Software Engineer with experience spanning backend development, quality engineer
 
 - **Backend & Quality Engineering (Lloyds Banking Group)** — Java REST API development, performance testing (K6, LoadRunner), Test-Driven Development, CI/CD automation with Harness, Helm charts for autoscaling, canary deployment strategies, and load balancing optimization.
 - **Software Engineer (High-Frequency Crypto Trading)** — FastAPI backend development, web scraping pipelines, internal dashboard design, full-stack web app development, and AWS infrastructure management.
-- **iOS Engineer (Fintech / AI)** — Reusable UI component design, testing tooling, and interface development for a large-scale AI investment chat product, working across a codebase shared by dozens of feature teams.
+- **iOS Engineer (Fintech / AI)** — Reusable UI component design, testing tooling, and interface development for a large-scale AI investment chat product, working across large enteprise codebases.
 
 ### 🎓 Education
 
